@@ -1,0 +1,25 @@
+﻿Bidang,Kecamatan,Wilayah,Skor Relatif,Cluster,Subcluster
+Pendidikan,Kenjeran,Utara,-2.038273090513198,1,C1.1
+Pendidikan,Asemrowo,Barat,-1.5005367532234664,1,C1.3
+Pendidikan,Sawahan,Selatan,-1.1213184122382214,1,C1.2
+Pendidikan,Bulak,Utara,-1.0178905490633723,1,C1.3
+Pendidikan,Semampir,Utara,-0.9265826604256314,2,C2.1
+Pendidikan,Tambaksari,Timur,-0.8760875208615517,1,C1.2
+Pendidikan,Benowo,Barat,-0.7638762673183755,1,C1.3
+Pendidikan,Krembangan,Utara,-0.7562682947967755,1,C1.3
+Kesehatan,Asemrowo,Barat,-1.1870607757721476,1,C1.3
+Kesehatan,Kenjeran,Utara,-1.1294340484353254,1,C1.1
+Kesehatan,Pakal,Barat,-0.9053878776003529,1,C1.3
+Kesehatan,Bulak,Utara,-0.8841317273347684,1,C1.3
+Kesehatan,Karangpilang,Selatan,-0.8697333279077177,2,C2.2
+Kesehatan,Bubutan,Pusat,-0.8648043450886649,2,C2.1
+Kesehatan,Jambangan,Selatan,-0.8626215826493702,2,C2.3
+Kesehatan,Semampir,Utara,-0.8019018312414014,2,C2.1
+Ekonomi,Kenjeran,Utara,-1.4531099518444621,1,C1.1
+Ekonomi,Simokerto,Pusat,-1.3925280810316416,2,C2.1
+Ekonomi,Bulak,Utara,-1.2003472313428074,1,C1.3
+Ekonomi,Asemrowo,Barat,-1.1755434661459896,1,C1.3
+Ekonomi,Semampir,Utara,-1.173390784295125,2,C2.1
+Ekonomi,Sawahan,Selatan,-1.1057623528381346,1,C1.2
+Ekonomi,Benowo,Barat,-0.9868766127939977,1,C1.3
+Ekonomi,Tambaksari,Timur,-0.8505886243754874,1,C1.2
